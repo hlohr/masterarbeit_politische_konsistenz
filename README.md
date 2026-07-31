@@ -1,6 +1,6 @@
 **Masterarbeit an der Fachhochschule Südwestfalen im SS2026. Dieses Repository enthält neben der eigentlichen [📄 Masterarbeit PDF](arbeit/Masterarbeit_Coverseite.pdf) des Verfassers den für die Kapitel 4 bis 7 verwendeten Code in Form von Jupyter-Notebooks zwecks Prüfung der Ergebnisse**
 
-<u>Thema:</u>
+### Thema:
 
 ***"Politische Konsistenz im Bundestagswahlkampf 2025: Wie stark spiegeln Bundestagsdebatten die Wahlprogramme der Parteien wider? Ein NLP-basierter Vergleich"***
 _("Political Consistency in the 2025 German Federal Election Campaign: How closely do Bundestag debates reflect party manifestos? An NLP-based comparison")_
