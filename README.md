@@ -24,7 +24,7 @@ BLABL....
 └── README.md
 ```
 
-**Lizenz & Kontakt**
+**Lizenz**
 keine Lizenz
 
 **Kontakt**
