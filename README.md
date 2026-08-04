@@ -19,6 +19,9 @@ BLABL....
 │   └── masterarbeit_coverseite.pdf
 ├── code/
 │   └── Konferenzseminar_Kapitel_6_data_poisoning.ipynb
+├── wahlprogramme_txt/
+│   └── ...die 6 Langtext-Wahlprogramme der CDU/CSU, der SPD, dem Bündnis 90/Die Grünen, der Partei Die Linke, der FDP, der AfD
+│   └── ...die 5 Leichten Wahlprogramme der CDU/CSU, der SPD, dem Bündnis 90/Die Grünen, der Partei Die Linke, der FDP
 ├── images/
 │   └── keras_model_git.png
 └── README.md
