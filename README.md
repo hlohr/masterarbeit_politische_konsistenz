@@ -20,10 +20,12 @@ BLABL....
 ├── codes/
 │   └── ...pro Kapitel die entsprechenden Notebooks
 ├── wahlprogramme_txt/
-│   └── ...die 6 Langtext-Wahlprogramme der CDU/CSU, der SPD, dem Bündnis 90/Die Grünen, der Partei Die Linke, der FDP, der AfD
-│   └── ...die 5 Leichten Wahlprogramme der CDU/CSU, der SPD, dem Bündnis 90/Die Grünen, der Partei Die Linke, der FDP
-├── images/
-│   └── keras_model_git.png
+│   └── ...die 6 Langtext-Wahlprogramme die 5 Leichten Wahlprogramme (CDU/CSU, SPD, Bündnis 90/Die Grünen, Die Linke, FDP, AfD)
+│   └── ...die 5 Leichten Wahlprogramme (CDU/CSU, SPD, Bündnis 90/Die Grünen, Die Linke, FDP)
+├── wahlprogramme_pdf/
+│   └── ...die 6 Langtext-Wahlprogramme die 5 Leichten Wahlprogramme (CDU/CSU, SPD, Bündnis 90/Die Grünen, Die Linke, FDP, AfD)
+│   └── ...die 5 Leichten Wahlprogramme (CDU/CSU, SPD, Bündnis 90/Die Grünen, Die Linke, FDP)
+
 └── README.md
 ```
 
