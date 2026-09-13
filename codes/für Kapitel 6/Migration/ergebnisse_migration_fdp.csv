@@ -1,0 +1,7 @@
+﻿partei;zeitraum;Anzahl_Segmente;Anteil an Gesamt in %;Anzahl_positiv;Anzahl_negativ;Anzahl_neutral_echt;Anzahl_irrelevant;Netto_Haltung;Ø-Confidence;Anzahl_Low_Confidence;Anteil_Low_Confidence in %
+FDP;Wahlprogramm;6;8.1;6.0;0.0;0.0;0.0;1.0;0.788;0;0.0
+FDP;01.01.-31.03.2022;4;5.4;1.0;2.0;1.0;0.0;0.375;0.715;0;0.0
+FDP;01.10.-31.12.2023;25;33.8;21.0;2.0;1.0;1.0;0.896;0.765;0;0.0
+FDP;01.10.-15.12.2024;19;25.7;13.0;4.0;2.0;0.0;0.737;0.8;0;0.0
+FDP;01.01.-23.02.2025;20;27.0;18.0;1.0;1.0;0.0;0.925;0.768;0;0.0
+FDP;01.05.-31.07.2025;0;0.0;;;;;;;0;

@@ -1,0 +1,7 @@
+﻿partei;zeitraum;Anzahl_Segmente;Anteil an Gesamt in %;Anzahl_positiv;Anzahl_negativ;Anzahl_neutral_echt;Anzahl_irrelevant;Netto_Haltung;Ø-Confidence;Anzahl_Low_Confidence;Anteil_Low_Confidence in %
+SPD;Wahlprogramm;14;7.9;1;7;5;1;0.269;0.749;1;7.1
+SPD;01.01.-31.03.2022;23;12.9;2;12;7;2;0.262;0.73;2;8.7
+SPD;01.10.-31.12.2023;55;30.9;21;22;10;2;0.491;0.754;2;3.6
+SPD;01.10.-15.12.2024;54;30.3;16;27;8;3;0.392;0.747;1;1.9
+SPD;01.01.-23.02.2025;9;5.1;4;4;0;1;0.5;0.791;0;0.0
+SPD;01.05.-31.07.2025;23;12.9;7;13;3;0;0.37;0.737;2;8.7

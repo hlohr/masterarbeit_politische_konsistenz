@@ -1,0 +1,7 @@
+﻿partei;zeitraum;Anzahl_Segmente;Anteil an Gesamt in %;Anzahl_positiv;Anzahl_negativ;Anzahl_neutral_echt;Anzahl_irrelevant;Netto_Haltung;Ø-Confidence;Anzahl_Low_Confidence;Anteil_Low_Confidence in %
+CDU/CSU;Wahlprogramm;44;18.4;4;2;1;37;0.643;0.873;0;0.0
+CDU/CSU;01.01.-31.03.2022;39;16.3;2;2;0;35;0.5;0.821;0;0.0
+CDU/CSU;01.10.-31.12.2023;51;21.3;6;11;2;32;0.368;0.789;2;3.9
+CDU/CSU;01.10.-15.12.2024;43;18.0;9;5;0;29;0.643;0.839;0;0.0
+CDU/CSU;01.01.-23.02.2025;11;4.6;2;2;0;7;0.5;0.855;0;0.0
+CDU/CSU;01.05.-31.07.2025;51;21.3;4;7;1;39;0.375;0.832;0;0.0

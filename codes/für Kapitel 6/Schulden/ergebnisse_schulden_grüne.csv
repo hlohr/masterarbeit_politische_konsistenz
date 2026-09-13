@@ -1,0 +1,7 @@
+﻿partei;zeitraum;Anzahl_Segmente;Anteil an Gesamt in %;Anzahl_positiv;Anzahl_negativ;Anzahl_neutral_echt;Anzahl_irrelevant;Netto_Haltung;Ø-Confidence;Anzahl_Low_Confidence;Anteil_Low_Confidence in %
+Grüne;Wahlprogramm;52;12.7;0;3;2;47;0.2;0.857;0;0.0
+Grüne;01.01.-31.03.2022;95;23.2;9;6;6;74;0.571;0.834;0;0.0
+Grüne;01.10.-31.12.2023;94;23.0;12;10;4;68;0.538;0.819;1;1.1
+Grüne;01.10.-15.12.2024;80;19.6;7;12;5;56;0.396;0.82;0;0.0
+Grüne;01.01.-23.02.2025;25;6.1;1;4;1;19;0.25;0.816;0;0.0
+Grüne;01.05.-31.07.2025;63;15.4;10;8;3;42;0.548;0.807;1;1.6

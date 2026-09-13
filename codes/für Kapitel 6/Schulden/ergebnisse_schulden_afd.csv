@@ -1,0 +1,7 @@
+﻿partei;zeitraum;Anzahl_Segmente;Anteil an Gesamt in %;Anzahl_positiv;Anzahl_negativ;Anzahl_neutral_echt;Anzahl_irrelevant;Netto_Haltung;Ø-Confidence;Anzahl_Low_Confidence;Anteil_Low_Confidence in %
+AfD;Wahlprogramm;84;21.5;5;3;1;75;0.611;0.864;0;0.0
+AfD;01.01.-31.03.2022;56;14.4;13;3;2;38;0.778;0.818;0;0.0
+AfD;01.10.-31.12.2023;70;17.9;9;4;2;55;0.667;0.796;0;0.0
+AfD;01.10.-15.12.2024;64;16.4;5;3;2;54;0.6;0.811;0;0.0
+AfD;01.01.-23.02.2025;7;1.8;0;0;0;7;;0.824;0;0.0
+AfD;01.05.-31.07.2025;109;27.9;39;10;2;58;0.784;0.819;1;0.9
