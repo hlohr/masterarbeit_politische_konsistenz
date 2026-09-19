@@ -1,4 +1,4 @@
-**Masterarbeit an der Fachhochschule Südwestfalen im SS2026. Dieses Repository enthält neben der eigentlichen [📄 Masterarbeit PDF](arbeit/Masterarbeit_Coverseite.pdf) des Verfassers den für die Kapitel 4 bis 7 verwendeten Code in Form von Jupyter-Notebooks zwecks Prüfung der Ergebnisse.**
+**Masterarbeit an der Fachhochschule Südwestfalen im SS2026. Dieses Repository enthält neben der eigentlichen [📄 Masterarbeit PDF](arbeit/Masterarbeit.pdf) des Verfassers den für die Kapitel 4 bis 7 verwendeten Code in Form von Jupyter-Notebooks zwecks Prüfung der Ergebnisse.**
 
 ### Thema:
 
